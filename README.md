@@ -1,0 +1,2 @@
+# affiliate-red
+redirect link
